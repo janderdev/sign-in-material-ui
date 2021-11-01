@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+&NewLine;
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Created for Freelancer Devs to manage their Jobs. 👩‍💻</p>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+</div>
 
-### `yarn start`
+<h4 align="center"> 
+	🚧  Projeto em melhoria . . .  🚧
+</h4>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#-licença">Licença</a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📝 Descrição
 
-### `yarn test`
+👩‍💻 JobsCalc - é uma ferramenta criada para gerenciar os projetos de um desenvolvedor freelancer. Com ela você poderá, além de acompanhar a deadline dos projetos, calcular o valor a ser cobrado por cada job de acordo com a sua pretenção salarial.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Projeto desenvolvido durante a segunda edição da maratona **DISCOVER** oferecida pela [Rocketseat](https://app.rocketseat.com.br/discover).
+O Discover é um treinamento inicial online com conteúdos básicos de desenvolvimento, mas com conhecimentos essenciais para um bom programador.
 
-### `yarn build`
+## 🎨 Layout
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+    <img src=".github/banner.png" height="100%" width="85%" alt="Banner da dashboard do JobsCalc" />
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Tecnologias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### `yarn eject`
+- **[Node.js](https://nodejs.org/)**
+- **[React](https://www.npmjs.com/package/express)**
+- **[Material UI](https://ejs.co/)**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+> Veja o arquivo [package.json](package.json)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🦸 Autor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Oi, me chamo **Douglas Morais**. Entre em contato comigo! 👇 
+<p align="left">
+	<a href="https://linkedin.com/in/douglasmorais" target="_blank"><img align="center" 
+		     src="https://github.com/DouglasMoraiis/SocialMediaIcons/blob/8cd452968617a9483d3c5c47d90909fb283619aa/Linkedin.svg" 	
+		     alt="Link para Linkedin" height="25" width="40" 
+	/> @douglasmorais</a>
+</p>
+<p>
+	<a href="https://www.instagram.com/douglas_moraiis/" target="_blank"><img align="center" 
+		     src="https://github.com/DouglasMoraiis/SocialMediaIcons/blob/8cd452968617a9483d3c5c47d90909fb283619aa/Instagram.svg" 	
+		     alt="Link para Instagram" height="27" width="40" 
+		/> @douglas_moraiis</a>
+</p>
+<p>
+	<a href="https://twitter.com/JDouglas_Morais" target="_blank"><img align="center" 
+		     src="https://github.com/DouglasMoraiis/SocialMediaIcons/blob/8cd452968617a9483d3c5c47d90909fb283619aa/Twitter.svg" 	
+		     alt="Link para Twitter" height="25.2" width="40" 
+		/> @JDouglas_Morais</a>
+</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📝 Licença
 
-## Learn More
+Este projeto esta sobe a licença MIT. </br>
+Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">Feito com 💚 por <a href="https://www.linkedin.com/in/douglasmorais">Douglas Morais</a>.</p> 
