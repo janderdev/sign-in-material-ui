@@ -18,7 +18,7 @@ Dentre os elementos presentes estão:
 ## 🎨 Layout
 
 <p align="center">
-    <img src=".github/banner-ofi.png" height="100%" width="100%" alt="Banner da dashboard do JobsCalc" />
+    <img src=".github/banner.png" height="100%" width="100%" alt="Banner Sign In do Google" />
 </p>
 
 ## 🚀 Tecnologias
