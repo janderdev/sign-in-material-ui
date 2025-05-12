@@ -13,7 +13,12 @@
 
 Projeto produzido com o intuito de aplicar os conhecimentos a cerca do framework **Material UI** com uma recriação da interface de **Sign In** do Google.
 Dentre os elementos presentes estão:
- - Grid, ThemeProvider, Button, Select, Box, Typograph ... 
+ - Grid
+ - ThemeProvider
+ - Button
+ - Select
+ - Box
+ - Typograph
 
 ## 🎨 Layout
 
